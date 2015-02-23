@@ -1,0 +1,20 @@
+/* mobile */
+@media screen (max-width: 480px) {
+	body {
+		background: teal;
+	}
+}
+
+/* tablet */
+@media screen (max-width: 768px) {
+	body {
+		background: yellow;
+	}
+}
+
+/* desktop */
+@media screen (max-width: 992px) {
+	body {
+		background: red;
+	}
+}
